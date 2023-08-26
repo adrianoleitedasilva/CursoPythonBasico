@@ -1,4 +1,3 @@
-
 # Números inteiros
 a = 10
 b = 11
@@ -15,3 +14,13 @@ eleRiu = False
 nome = "Adriano"
 sobrenome = "Silva"
 email = 'adrianoleitedasilva@outlook.com'
+
+print(nome)
+print(sobrenome)
+print(email)
+print(a)
+print(b)
+print(salario)
+print(precoUnitario)
+print(vaiChover)
+print(eleRiu)
