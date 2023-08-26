@@ -11,7 +11,7 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/template?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![banner](https://user-images.githubusercontent.com/6373438/200974459-c1325f0f-5b63-4796-913e-778136518b84.jpg)
+![PythonBasico](https://github.com/adrianoleitedasilva/CursoPythonBasico/assets/6373438/38e06022-e328-4924-846b-e0875b07b332)
 
 - [Descrição](#descrição)
 - [Instruções](#instruções)
